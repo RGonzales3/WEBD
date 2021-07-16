@@ -1,0 +1,34 @@
+body {
+    background-color: #EDE2AB;
+}
+
+h1 {
+    color: #FFFFFF;
+    background-color: #A62121;
+    text-align: center;
+    text-shadow: 1px 2px #D1872A;
+    padding: 30px;
+    box-shadow: 4px 4px #D1872A;
+}
+
+h2 {
+    color: #FFFFFF;
+    text-align: center;
+    text-shadow: 1px 2px #D1872A;
+    padding: 8px;
+}
+
+p{
+    font-size: 130%;
+    text-align: center;
+    background-color: #EDE2AB;
+    padding: 20px;
+    box-shadow: 4px 4px #D1872A;
+}
+
+section{
+    background-color: #A62121;
+    box-shadow: 4px 4px #D1872A;
+    padding: 30px;
+    
+}
